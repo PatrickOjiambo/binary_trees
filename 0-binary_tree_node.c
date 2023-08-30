@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
+ * binary_tree_node - creates a binary tree node
  * @parent: pointer to the parent node of the node to create
  * @value:  value to put in the new node
  *
